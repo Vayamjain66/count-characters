@@ -1,5 +1,6 @@
 {
   "name": "character-count",
+  "type":"module",
   "version": "1.0.0",
   "description": "count of characters in a given string",
   "main": "index.js",
